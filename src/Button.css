@@ -1,0 +1,19 @@
+.buttons {
+  padding: 10px;
+  font-size: 32px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.text-decoration {
+  text-decoration: none;
+  padding:10px;
+  border-radius: 10px;;
+}
